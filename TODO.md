@@ -1,0 +1,4 @@
+- [x] Change "web designer" to "graphics designer" in Hero.jsx
+- [x] Update the description text to reflect graphics design expertise
+- [x] Apply custom text styling for the profession title
+- [x] Test the changes on the running dev server
